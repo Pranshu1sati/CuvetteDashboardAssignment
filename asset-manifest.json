@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/CuvetteDashboardAssignment/static/css/main.bd071364.css",
+    "main.js": "/CuvetteDashboardAssignment/static/js/main.9ccc4833.js",
+    "static/media/profile.jpg": "/CuvetteDashboardAssignment/static/media/profile.33791a38c8e64f24048c.jpg",
+    "static/media/html-5.png": "/CuvetteDashboardAssignment/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/logo.svg": "/CuvetteDashboardAssignment/static/media/logo.74bda65012e4cfbc8b677494494717a0.svg",
+    "static/media/badge.svg": "/CuvetteDashboardAssignment/static/media/badge.21550a8179bd31cee7169a2da82a0857.svg",
+    "index.html": "/CuvetteDashboardAssignment/index.html",
+    "static/media/paper.svg": "/CuvetteDashboardAssignment/static/media/paper.624335b71b358a7188adab3a7a791c99.svg",
+    "static/media/dashboard.svg": "/CuvetteDashboardAssignment/static/media/dashboard.60414d7bb14fe1bf998e3996e81638b2.svg",
+    "main.bd071364.css.map": "/CuvetteDashboardAssignment/static/css/main.bd071364.css.map",
+    "main.9ccc4833.js.map": "/CuvetteDashboardAssignment/static/js/main.9ccc4833.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd071364.css",
+    "static/js/main.9ccc4833.js"
+  ]
+}
